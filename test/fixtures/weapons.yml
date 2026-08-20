@@ -1,0 +1,9 @@
+rapier:
+  uid: weapon-rapier
+  name: Rapier
+  category: Straight Sword
+
+zweihander:
+  uid: weapon-zweihander
+  name: Zweihander
+  category: Greatsword

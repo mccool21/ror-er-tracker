@@ -1,0 +1,11 @@
+first_run:
+  user: one
+  name: My First NG Run
+
+second_run:
+  user: one
+  name: Strength Build #2
+
+other_users_run:
+  user: two
+  name: Two's Run

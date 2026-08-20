@@ -1,0 +1,11 @@
+<h1>My Profile</h1>
+
+<%= image_tag @user.avatar_url, size: "80x80", class: "rounded mb-3" if @user.avatar_url.present? %>
+
+<ul class="list-group mb-3">
+  <li class="list-group-item"><strong>Name:</strong> <%= @user.name.presence || "—" %></li>
+  <li class="list-group-item"><strong>Email:</strong> <%= @user.email_address %></li>
+  <li class="list-group-item"><strong>Role:</strong> <%= @user.role.humanize %></li>
+</ul>
+
+<%= link_to "Manage users", admin_users_path, class: "btn btn-outline-secondary" if @user.admin? %>

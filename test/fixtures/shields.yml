@@ -1,0 +1,9 @@
+brass_shield:
+  uid: shield-brass
+  name: Brass Shield
+  category: Small Shield
+
+fingerprint_shield:
+  uid: shield-fingerprint
+  name: Fingerprint Shield
+  category: Medium Shield

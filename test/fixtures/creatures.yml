@@ -1,0 +1,7 @@
+giant_crab:
+  uid: creature-giant-crab
+  name: Giant Crab
+
+land_octopus:
+  uid: creature-land-octopus
+  name: Land Octopus

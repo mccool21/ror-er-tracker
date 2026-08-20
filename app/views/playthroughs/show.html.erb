@@ -1,0 +1,14 @@
+<h1><%= @playthrough.name %></h1>
+
+<div class="list-group mb-3">
+  <% @progress.each do |slug, _klass, progress| %>
+    <%= link_to items_playthrough_path(@playthrough, item_type: slug),
+          class: "list-group-item list-group-item-action d-flex justify-content-between align-items-center" do %>
+      <%= slug.humanize %>
+      <span class="badge bg-secondary rounded-pill"><%= progress[:found] %>/<%= progress[:total] %></span>
+    <% end %>
+  <% end %>
+</div>
+
+<%= button_to "Delete playthrough", playthrough_path(@playthrough), method: :delete,
+      data: { turbo_confirm: "Are you sure?" }, class: "btn btn-outline-danger" %>

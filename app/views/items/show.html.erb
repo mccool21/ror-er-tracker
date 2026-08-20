@@ -1,0 +1,14 @@
+<h1><%= @item.name %></h1>
+
+<%= image_tag @item.image, size: "200x200", class: "rounded mb-3" if @item.respond_to?(:image) && @item.image.present? %>
+
+<dl class="row">
+  <% @item.attributes.except("id", "uid", "created_at", "updated_at", "name", "image").each do |key, value| %>
+    <dt class="col-sm-3"><%= key.humanize %></dt>
+    <dd class="col-sm-9"><%= value.is_a?(String) ? value : value.inspect %></dd>
+  <% end %>
+</dl>
+
+<%= render "items/toggle_button", item: @item, found_item: @found_item, playthrough: @playthrough, item_type: @item_type %>
+
+<%= link_to "Back to #{@item_type.humanize}", items_playthrough_path(@playthrough, item_type: @item_type), class: "btn btn-outline-secondary" %>

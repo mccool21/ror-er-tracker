@@ -1,0 +1,9 @@
+crucible_armor:
+  uid: armor-crucible
+  name: Crucible Axe Armor
+  category: Chest
+
+raging_wolf_helm:
+  uid: armor-raging-wolf-helm
+  name: Raging Wolf Helm
+  category: Head

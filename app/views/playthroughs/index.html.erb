@@ -1,0 +1,13 @@
+<h1>My Playthroughs</h1>
+
+<%= link_to "New playthrough", new_playthrough_path, class: "btn btn-primary mb-3" %>
+
+<div class="list-group">
+  <% @playthroughs.each do |playthrough| %>
+    <div class="list-group-item d-flex justify-content-between align-items-center">
+      <%= link_to playthrough.name, playthrough_path(playthrough) %>
+      <%= button_to "Delete", playthrough_path(playthrough), method: :delete,
+            data: { turbo_confirm: "Are you sure?" }, class: "btn btn-outline-danger btn-sm" %>
+    </div>
+  <% end %>
+</div>

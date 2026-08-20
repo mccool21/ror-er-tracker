@@ -1,0 +1,9 @@
+lions_claw:
+  uid: ash-lions-claw
+  name: Lion's Claw
+  affinity: Heavy
+
+quick_step:
+  uid: ash-quick-step
+  name: Quickstep
+  affinity: Keen

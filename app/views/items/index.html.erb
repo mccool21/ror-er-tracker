@@ -1,0 +1,19 @@
+<h1><%= @item_type.humanize %> — <%= @playthrough.name %></h1>
+
+<%= link_to "Back to playthrough", playthrough_path(@playthrough), class: "btn btn-outline-secondary mb-3" %>
+
+<div class="table-responsive">
+  <table class="table table-striped table-hover align-middle">
+    <thead><tr><th>Name</th><th>Status</th><th></th></tr></thead>
+    <tbody>
+      <% @items.each do |item| %>
+        <% found_item = @found_items_by_item_id[item.id] %>
+        <tr>
+          <td><%= link_to item.name, item_playthrough_path(@playthrough, item_type: @item_type, item_id: item.id) %></td>
+          <td><%= found_item ? "Found" : "—" %></td>
+          <td><%= render "items/toggle_button", item: item, found_item: found_item, playthrough: @playthrough, item_type: @item_type %></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</div>

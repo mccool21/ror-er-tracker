@@ -1,0 +1,9 @@
+heal:
+  uid: incantation-heal
+  name: Heal
+  spell_type: Incantation
+
+lightning_spear:
+  uid: incantation-lightning-spear
+  name: Lightning Spear
+  spell_type: Incantation

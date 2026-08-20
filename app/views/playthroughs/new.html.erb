@@ -1,0 +1,11 @@
+<h1>New Playthrough</h1>
+
+<%= tag.div(@playthrough.errors.full_messages.to_sentence, class: "alert alert-danger") if @playthrough.errors.any? %>
+
+<%= form_with model: @playthrough, url: playthroughs_path do |form| %>
+  <div class="mb-3">
+    <%= form.label :name, class: "form-label" %>
+    <%= form.text_field :name, placeholder: "e.g. My first NG run", required: true, autofocus: true, class: "form-control" %>
+  </div>
+  <%= form.submit "Create", class: "btn btn-primary" %>
+<% end %>

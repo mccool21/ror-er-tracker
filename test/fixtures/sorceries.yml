@@ -1,0 +1,9 @@
+glintstone_pebble:
+  uid: sorcery-glintstone-pebble
+  name: Glintstone Pebble
+  spell_type: Sorcery
+
+meteorite:
+  uid: sorcery-meteorite
+  name: Meteorite
+  spell_type: Sorcery

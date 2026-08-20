@@ -1,0 +1,1769 @@
+[
+  {
+    "uid": "17f69323f35l0hykrc6d1g3vajyc0n",
+    "name": "Briars Of Punishment",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69323f35l0hykrc6d1g3vajyc0n.png",
+    "description": "An aberrant sorcery discovered by exiled criminals. Theirs are the sorceries most reviled by the academy. Wounds the caster with thorns of sin, sending a trail of bloodthorns running over the ground to impale enemies from below. This sorcery can be cast repeatedly. The guilty, their eyes gouged by thorns, lived in eternal darkness. There, they discovered the blood star.",
+    "location": "On the path North from the Zamor Ruins. Next to the fire guys.",
+    "spell_type": "Sorceries",
+    "cost": 13,
+    "slots": 1,
+    "effects": "Wounds caster to unleash trail of bloodthrorns",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 0
+      },
+      {
+        "name": "Faith",
+        "amount": 21
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f697cbb96l0hykre66weonnfh81y",
+    "name": "Ancient Death Rancor",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f697cbb96l0hykre66weonnfh81y.png",
+    "description": "Sorcery of the servants of Death.",
+    "location": "Kill the Death Rite Bird next to the Gate Town North Grace, East of Raya Lucaria Academy, at Night.",
+    "spell_type": "Sorceries",
+    "cost": 24,
+    "slots": 1,
+    "effects": "Summons horde of vengeful spirits that chase down foes",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 34
+      },
+      {
+        "name": "Faith",
+        "amount": 24
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f694c4b51l0hykrh5ekspavmcdh",
+    "name": "Briars Of Sin",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f694c4b51l0hykrh5ekspavmcdh.png",
+    "description": "An aberrant sorcery, discovered along with red glintstone by those exiled to the north for their crimes. Summons large thorns from a whorl of blood shed by one's own hand in penance for sins. This sorcery can be cast repeatedly. The Academy reviles this sorcery, which draws its power from faith.",
+    "location": "North-West of the Artist's Shack, East of Academy Gate Town, there is a camp of fire guys. Outside the camp is lone enemy surrounded by fire slugs. Kill the lone enemy for the spell.",
+    "spell_type": "Sorcery",
+    "cost": 9,
+    "slots": 1,
+    "effects": "Summons thorns from a whorl of your own blood.",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 0
+      },
+      {
+        "name": "Faith",
+        "amount": 24
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f697763ffl0hykrjb9eqis858fj9",
+    "name": "Cannon Of Haima",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f697763ffl0hykrjb9eqis858fj9.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Lobs an explosive magic projectile that flies in an arc. Charging enhances potency. Drawn from the conspectus of Haima, the adjudicator of the academy, this sorcery employs might as a means to quell conflict.",
+    "location": "Chest at the top of the Converted Fringe Tower in North-East Liurnia Lake. To get to the tower, you have to go past the Frenzied Flame Village North-East of the Bellum Church, North of the East Raya Lucaria Gate. Once at the Tower, you have to solve a puzzle. For this you must get any Glintstone Crown and use the Erudition emote. Once you have both items, wear the crown and use the emote while standing on the message in the Converted Fringe Tower.",
+    "spell_type": "Sorceries",
+    "cost": 45,
+    "slots": 1,
+    "effects": "Lobs an explosive magic projectile in an arc",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 25
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69548207l0hykrjxtjpw45plt0o",
+    "name": "Ambush Shard",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69548207l0hykrjxtjpw45plt0o.png",
+    "description": "One of the night sorceries of Sellia, Town of Sorcery. Launches a projectile from a distance removed from the caster, so as to strike the enemy from behind. This sorcery can be cast repeatedly. The Sellian sorcerers were assassins, and it is said that they often hunted their fellows.",
+    "location": "Found under the Witchbane Ruins in North-West Weeping Peninsula",
+    "spell_type": "Sorceries",
+    "cost": 16,
+    "slots": 1,
+    "effects": "Strikes from behind with projectile fired from distance",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 23
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69526092l0hykrkfqubdcrri5ri",
+    "name": "Carian Phalanx",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69526092l0hykrkfqubdcrri5ri.png",
+    "description": "One of the sorceries of the Carian royal family.",
+    "location": "Sold by Seluvis (you must give someone the potion or dispose of it with Gideon before he opens his shop",
+    "spell_type": "Sorceries",
+    "cost": 26,
+    "slots": 1,
+    "effects": "Forms a defensive arch of numerous magic glintblades",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 34
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69501669l0hykrly1hkzqhsjkgf",
+    "name": "Adula's Moonblade",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69501669l0hykrly1hkzqhsjkgf.png",
+    "description": "Sorcery of Adula, the Glintstone Dragon. Conjures a cold magic greatsword, then delivers a sweeping blow that launches a blade-like projectile of frost. This sorcery can be cast repeatedly. Adula, a devourer of sorcerers, was bested by Ranni and subsequently swore a knightly oath to her Dark Moon.",
+    "location": "Kill Glintstone Dragon Adula in the area accessed after Ranni's Questline.",
+    "spell_type": "Sorceries",
+    "cost": 26,
+    "slots": 1,
+    "effects": "Sweeping slash followed by cold blade projectile",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 32
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f698158cbl0hykro1lrfmqwblslj",
+    "name": "Carian Greatsword",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f698158cbl0hykro1lrfmqwblslj.png",
+    "description": "One of the sorceries of the Carian royal family. Conjures a magic greatsword and then delivers a sweeping blow. This sorcery can be cast repeatedly. Armed with this spell, sorcerers gain the strength of knights, their loyalty sworn to the moon.",
+    "location": "Sold by Miriel, Pastor of Vows at the Church of Vows in East Liurnia Lake.",
+    "spell_type": "Sorceries",
+    "cost": 16,
+    "slots": 1,
+    "effects": "Performs sweeping slash using magical greatsword",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 24
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f68f67eeal0hyksqja69pmxoh3yh",
+    "name": "Carian Piercer",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f68f67eeal0hyksqja69pmxoh3yh.png",
+    "description": "One of the sorceries of the Carian royal family.",
+    "location": "Dropped by a scarab in Caria Manor. The beetle is found near the entrance to the manor on the East side.",
+    "spell_type": "Sorcery",
+    "cost": 23,
+    "slots": 1,
+    "effects": "Impales foes with magical greatsword",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 27
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f691dc847l0hyksqn4eqkjcj7jls",
+    "name": "Carian Retaliation",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f691dc847l0hyksqn4eqkjcj7jls.png",
+    "description": "One of the sorceries of the Carian royal family.",
+    "location": "Sold by Seluvis",
+    "spell_type": "Sorceries",
+    "cost": 8,
+    "slots": 1,
+    "effects": "Dispels enemy spells and retaliates with glintblades",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 17
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69526839l0hykt29wlkzjaekmfp",
+    "name": "Carian Slicer",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69526839l0hykt29wlkzjaekmfp.png",
+    "description": "One of the sorceries of the Carian royal family.",
+    "location": "Unlocked by Royal House Scroll (located on the ruin next to a mage, East of the Agheel Lake South Grace in South-East Limgrave)",
+    "spell_type": "Sorceries",
+    "cost": 4,
+    "slots": 1,
+    "effects": "Performs swift sweeping slash using magical sword",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 14
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f697a3cebl0hykt5z1wd5xboo99x",
+    "name": "Crystal Barrage",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f697a3cebl0hykt5z1wd5xboo99x.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+    "location": "Sold by Sorceress Sellen (under the Waypoint Ruins, East of the lake).",
+    "spell_type": "Sorceries",
+    "cost": 14,
+    "slots": 1,
+    "effects": "Fires a volley of glintstone crystal shards",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 23
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6935c00al0hykt61d5dex7ibki",
+    "name": "Collapsing Stars",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6935c00al0hykt61d5dex7ibki.png",
+    "description": "One of the glintstone sorceries that manipulates gravitational forces.",
+    "location": "In a chest in the War-Dead Catacombs. The catacombs can be accessed after killing Radahn and are located in the North-East corner of his boss arena. The chest is on the lower levels, below all the fighting enemies.",
+    "spell_type": "Sorceries",
+    "cost": 18,
+    "slots": 1,
+    "effects": "Pulls foes toward caster with gravity projectile volley",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 36
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69383db4l0hykt8reipbquz8e6t",
+    "name": "Comet Azur",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69383db4l0hykt8reipbquz8e6t.png",
+    "description": "Legendary sorcery devised by Azur, primeval sorcerer. Fires a tremendous comet in a torrent akin to the distant starry expanse, the place said to be the origin of glintstone. Hold to continue releasing the sorcery's power. When Azur glimpsed into the primeval current, he saw darkness. He was left both bewitched and fearful of the abyss.",
+    "location": "Found on the Primeval Sorcery Azur located just North of Hermit Village, South-East of Volcano Manor. He will be lying on the ground and has a crystal head. Talk to him for the Sorcery. Note: This Sorcery is needed for Sorceress Sellen's Questline.",
+    "spell_type": "Sorceries",
+    "cost": 40,
+    "slots": 3,
+    "effects": "Fires a tremendous comet within a starry torrent",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 60
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69246033l0hykt9k2ifr73lab5s",
+    "name": "Crystal Burst",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69246033l0hykt9k2ifr73lab5s.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Fires a burst of glintstone crystal shards. This sorcery can be cast repeatedly and while in motion. Charging increases potency. A sorcery of the Crystal Cadre, a group of sorcerers who pursued the wisdom of stone - the secrets locked in the faint cogitation of the Crystalians.",
+    "location": "Kill the Demi-Human Queen in the Demi-Human Forest Ruins in the forest in the Center of Weeping Peninsula.",
+    "spell_type": "Sorceries",
+    "cost": 14,
+    "slots": 1,
+    "effects": "Fires a burst of glintstone crystal shards",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 18
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69173b9bl0hyktcuppfyv71lx3",
+    "name": "Comet",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69173b9bl0hyktcuppfyv71lx3.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Fires a great magical comet. This sorcery can be cast repeatedly and while in motion. Charging enhances potency. The greatest of the Karolos Conspectus's sorceries, that only a very few sorcerers have ever mastered.",
+    "location": "In Raya Lucaria. From the Debate Parlor Grace, go back to the area before the boss room. Roll into the bookshelf with no books to find an Illusory Wall where the spell can be found.",
+    "spell_type": "Sorceries",
+    "cost": 38,
+    "slots": 1,
+    "effects": "Fires a great magic comet",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 52
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f68f97095l0hykuc91iv4akp5w4i",
+    "name": "Crystal Torrent",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f68f97095l0hykuc91iv4akp5w4i.png",
+    "description": "Sorcery of the mysterious Crystalians.",
+    "location": "Kill the Boss of Sellia Hideaway. To find the hideaway, go to Sellia in the North-East part of the swamp. Go past the seals by lighting the fires at the tops of the towers. Go up the path to the Church of Plague. Go North of the Church to find the mage enemy and a giant gravestone. Roll into the cliff behind the Grave to break the Illusion and find the Hideaway.",
+    "spell_type": "Sorceries",
+    "cost": 24,
+    "slots": 1,
+    "effects": "Creates crystal mass that fires stream of crystal shards",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 47
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69346f84l0hykudkkqg6v1lwpk",
+    "name": "Crystal Release",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69346f84l0hykudkkqg6v1lwpk.png",
+    "description": "Sorcery of the mysterious Crystalians. Creates a mass of crystal, then shatters it to scour a wide area with a violent rain of crystal shards. This sorcery is used by high-ranking adepts among the Crystalians. Some also call this sorcery \"the Crystal Sun.\"",
+    "location": "Kill the boss of Academy Crystal Cave",
+    "spell_type": "Sorceries",
+    "cost": 38,
+    "slots": 1,
+    "effects": "Scours area with violent rain of crystal shards",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 41
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69402fafl0hykuks706v0mkdjbd",
+    "name": "Fia's Mist",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69402fafl0hykuks706v0mkdjbd.png",
+    "description": "Sorcery of Fia, the Deathbed Companion. Creates a deathly mist before the caster, which inflicts Death blight upon those who enter. This sorcery can be cast while in motion. Charging enhances range of the mist. This sorcery was developed to oppose the Roundtable Hold, and is effective only against the Tarnished.",
+    "location": "Defeat the Boss located past the Across the Roots Grace. You can reach the Grace by going up the roots leading over the buildings.",
+    "spell_type": "Sorceries",
+    "cost": 25,
+    "slots": 1,
+    "effects": "Release a mist of death before caster",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 23
+      },
+      {
+        "name": "Faith",
+        "amount": 18
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f696b6eael0hykuqvnuxlujdx0r9",
+    "name": "Eternal Darkness",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f696b6eael0hykuqvnuxlujdx0r9.png",
+    "description": "Forbidden sorcery of Sellia, Town of Sorcery. ",
+    "location": "Go South from the Church of the Plague(explained just above) and cross the top of the gate nearby then go into the Swamp Lookout Tower to find the spell.",
+    "spell_type": "Sorceries",
+    "cost": 25,
+    "slots": 1,
+    "effects": "Creates a dark space that draws in spells",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 35
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f698816aal0hykuwweto12afmr3",
+    "name": "Frozen Armament",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f698816aal0hykuwweto12afmr3.png",
+    "description": "Sorcery said to have been used by the old snow witch. Enchants armament held in the right hand with frost. This sorcery can be cast while in motion. The snowy crone taught the young Ranni to fear the dark moon as she imparted her cold sorcery.",
+    "location": "Dropped by the scarab north of Caria Manor. Can only be accessed after finished Caria Manor.",
+    "spell_type": "Sorceries",
+    "cost": 20,
+    "slots": 1,
+    "effects": "Enchants right-hand armament with frost",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 15
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69206fd7l0hykuyci822nhe618p",
+    "name": "Founding Rain Of Stars",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69206fd7l0hykuyci822nhe618p.png",
+    "description": "The eldest primeval sorcery, said to have been discovered by an",
+    "location": "Freezing Lake Grace in the North-East. Go up the slope to the North and find the broken bridge on the Southern side of the cliff. The bridge is actually just invisible. Cross the bridge and near the end, on the left, you will see a small layer of mist, use the mist to go up and then into Heretical Rise. Inside you will find the spell.",
+    "spell_type": "Sorceries",
+    "cost": 46,
+    "slots": 2,
+    "effects": "Releases a downpour of star rain for a while",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 52
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6989bf92l0hykv0ugfsrr1nuyy6",
+    "name": "Explosive Ghostflame",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6989bf92l0hykv0ugfsrr1nuyy6.png",
+    "description": "Sorcery of the servants of Death.",
+    "location": "Kill the Death Rite Bird, South-East of the Apostate Derelict in the North-West section of the Consecrated Snowfield, at Night. Requires the Haligtree Medallion.",
+    "spell_type": "Sorceries",
+    "cost": 36,
+    "slots": 1,
+    "effects": "Causes ghostflame explosion that burns wide area",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 42
+      },
+      {
+        "name": "Faith",
+        "amount": 30
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f698eaeabl0hykv0y1tsef3d740n",
+    "name": "Freezing Mist",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f698eaeabl0hykv0y1tsef3d740n.png",
+    "description": "Sorcery said to have been used by the old snow witch.",
+    "location": "Sold by Seluvis",
+    "spell_type": "Sorceries",
+    "cost": 20,
+    "slots": 1,
+    "effects": "Releases cold mist before caster",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 21
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6970b6del0hykw6jbvxlnultl",
+    "name": "Gelmir's Fury",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6970b6del0hykw6jbvxlnultl.png",
+    "description": "One of the sorceries developed from the magma of Mt. Gelmir.",
+    "location": "Reward for helping Recusant Bernahl with his task in Volcano Manor. Requires being part of Volcano Manor, finishing at least one Volcano Manor request, and you cannot of killed Rykard or gotten to Crumbling Farum Azula yet.",
+    "spell_type": "Sorceries",
+    "cost": 27,
+    "slots": 1,
+    "effects": "Covers area with surge of magma from the earth",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 28
+      },
+      {
+        "name": "Faith",
+        "amount": 15
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f697a11c6l0hykw8gs7a4bj2bzi",
+    "name": "Gavel Of Haima",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f697a11c6l0hykw8gs7a4bj2bzi.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Creates a magical greathammer and slams it down. Allows one follow-up attack. Drawn from the scholarly conspectus of Haima, the adjudicator of the academy, this sorcery employs might as a means to quell conflict.",
+    "location": "In the same chest as Cannon of Haima",
+    "spell_type": "Sorceries",
+    "cost": 37,
+    "slots": 1,
+    "effects": "Attacks using a magic greathammer",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 25
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6923b831l0hykweqyar0a2aerzn",
+    "name": "Glintstone Arc",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6923b831l0hykweqyar0a2aerzn.png",
+    "description": "Fires a horizontal arc of magic that spreads outward. This sorcery can be cast repeteadly and while in motion.",
+    "location": "Sold by Sorceress Sellen",
+    "spell_type": "Sorcery",
+    "cost": 10,
+    "slots": 1,
+    "effects": "Fires a horizontally-widening magic arc",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 13
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6933356el0hykwkb5c4f5eue05g",
+    "name": "Glintstone Cometshard",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6933356el0hykwkb5c4f5eue05g.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Fires a magical comet with a trailing tail. This sorcery can be cast repeatedly and while in motion. Charging enhances potency. A sorcery of the Karolos Conspectus, the most venerable of the academy.",
+    "location": "Unlocked by Conspectus Scroll. Go to the room past the Schoolhouse Classroom Grace and turn left to find a room with the scroll inside.",
+    "spell_type": "Sorceries",
+    "cost": 25,
+    "slots": 1,
+    "effects": "Fires a magic comet with a trailing tail",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 36
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f692eb5c4l0hykwkentckpz3y24a",
+    "name": "Glintstone Pebble",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f692eb5c4l0hykwkentckpz3y24a.png",
+    "description": "The most basic glintstone sorcery of the Academy of Raya Lucaria.",
+    "location": "Sold by Sorceress Sellen",
+    "spell_type": "Sorcery",
+    "cost": 7,
+    "slots": 1,
+    "effects": "Fires magic projectiles from glintstone",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 10
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6944ddfel0hykwkrvbsv9aa4yv",
+    "name": "Glintstone Stars",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6944ddfel0hykwkrvbsv9aa4yv.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+    "location": "Sold by Sorceress Sellen",
+    "spell_type": "Sorcery",
+    "cost": 14,
+    "slots": 1,
+    "effects": "Fires three shooting stars that pursue foes",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 12
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6964e156l0hykwlsm0jw2254jkf",
+    "name": "Glintstone Icecrag",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6964e156l0hykwlsm0jw2254jkf.png",
+    "description": "Sorcery said to have been used by the old snow witch.",
+    "location": "Sold by Seluvis",
+    "spell_type": "Sorceries",
+    "cost": 12,
+    "slots": 1,
+    "effects": "Fires mass of cold magic from glintstone",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 15
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f694aa956l0hykwnt8t2s7k2ohg8",
+    "name": "Glintblade Phalanx",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f694aa956l0hykwnt8t2s7k2ohg8.png",
+    "description": "One of the sorceries of the Carian royal family.",
+    "location": "Unlocked by Royal House Scroll",
+    "spell_type": "Sorceries",
+    "cost": 20,
+    "slots": 1,
+    "effects": "Forms a defensive arch of magic glintblades",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 22
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f68fa1c72l0hykxlbrlhvbrbbyqn",
+    "name": "Gravity Well",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f68fa1c72l0hykxlbrlhvbrbbyqn.png",
+    "description": "One of the glintstone sorceries that manipulates gravitational forces. Fires a projectile of condensed gravitational force. Those struck by it will be pulled toward the caster. Charging enhances potency. A gravitational technique studied by the young Radahn. His master was an Alabaster Lord with skin of stone.",
+    "location": "Just past the rotating elevator in Raya Lucaria, next to the Schoolhouse Grace. So the quick/tricky method is from the Grace, time jumping down to the rising elevator then hop down to the path below. If you can't do this, then come from the Church of the Cuckoo Grace and run past all the enemies. Past the elevator is a bunch of graves where an enemy will spawn. Kill it for the spell.",
+    "spell_type": "Sorceries",
+    "cost": 12,
+    "slots": 1,
+    "effects": "Pulls foes toward caster with gravity projectile",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 17
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f696ff8b3l0hyky03xbsyxdc6ybe",
+    "name": "Great Glintstone Shard",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f696ff8b3l0hyky03xbsyxdc6ybe.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. The glintstone serves as a conduit, launching large magical projectiles at foes. This sorcery can be cast repeatedly and while in motion. Those unworthy of the stone crown typically end their brief journey into sorcery here.",
+    "location": "Unlocked by Academy Scroll (found at the grave West of the Lake-Facing Cliffs Grace in South Liurnia Lake).",
+    "spell_type": "Sorceries",
+    "cost": 12,
+    "slots": 1,
+    "effects": "Fires larger magic projectiles from glintstone",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 16
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6916d3a1l0hyky82ck5l071k7zt",
+    "name": "Lucidity",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6916d3a1l0hyky82ck5l071k7zt.png",
+    "description": "One of the sorceries of the Carian royal family.",
+    "location": "Kill Preceptor Miriam in Carian Study Hall after using the Carian Inverted Statue gotten from Ranni's Questline on the altar.",
+    "spell_type": "Sorceries",
+    "cost": 10,
+    "slots": 1,
+    "effects": "Alleviates buildup of sleep and madness",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 17
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69580940l0hyky9z5ebz67i2kvd",
+    "name": "Greatblade Phalanx",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69580940l0hyky9z5ebz67i2kvd.png",
+    "description": "One of the sorceries of the Carian royal family. Creates a defensive arch of larger magic glintblades overhead, which automatically attack nearby foes. Used by the enchanted troll knights. They were the comrades of the young Rennala, bound by oath.",
+    "location": "Kill the boss of Cuckoo's Evergaol in West Liurnia Lake.",
+    "spell_type": "Sorceries",
+    "cost": 43,
+    "slots": 1,
+    "effects": "Forms a defensive arch of larger magic glintblades",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 29
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f695ccb66l0hykyaen5y0w0khkll",
+    "name": "Great Oracular Bubble",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f695ccb66l0hykyaen5y0w0khkll.png",
+    "description": "Sorcery of the claymen who served as priests in the ancient",
+    "location": "Go into the underground area via the lift at Siofra River Well in Limgrave's forest. Go through the area to the next lift then take it to the next area. In the North-East section of this area is the Worshipper's Woods Grace. Go South from the Grace and use Matrix skills to dodge Radahn's Archery Instructors. Find a fallen pillar and hop on top of it then climb to the top to find a Waygate. Enter the nearby room full of enemies for a scarab. Beat it to death for putting you through all that for the spell.",
+    "spell_type": "Sorceries",
+    "cost": 16,
+    "slots": 1,
+    "effects": "Launches a large magic bubble",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 25
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 18
+      }
+    ]
+  },
+  {
+    "uid": "17f6971b61dl0hykyaiiyblbxaeim",
+    "name": "Oracle Bubble",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6971b61dl0hykyaiiyblbxaeim.png",
+    "description": "Sorcery of the claymen who served as priests in the ancient dynasty.",
+    "location": null,
+    "spell_type": "Sorcery",
+    "cost": 12,
+    "slots": 1,
+    "effects": "Launches several bubbles of magic.",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 10
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6921c90fl0hykycr9xzxlra3r57",
+    "name": "Loretta's Greatbow",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6921c90fl0hykycr9xzxlra3r57.png",
+    "description": "Sorcery used by Royal Knight Loretta. Creates a magic greatbow and fires a great arrow. Charging enhances potency. Hold to keep the great arrow nocked. It is said that the bow was Loretta's favored weapon.",
+    "location": "Kill the boss of Caria Manor",
+    "spell_type": "Sorceries",
+    "cost": 32,
+    "slots": 1,
+    "effects": "Fires great arrow from a magic greatbow",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 26
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f696d8893l0hykyj6qhbawvh09t",
+    "name": "Loretta's Mastery",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f696d8893l0hykyj6qhbawvh09t.png",
+    "description": "Sorcery used by Loretta, Knight of the Haligtree. Creates a magic greatbow and fires four great arrows simultaneously. Charging enhances potency. Hold to keep the great arrows nocked. Developed by Loretta after her long, bloody journey to seek out a place where the Albinaurics could live in peace. ",
+    "location": "Kill the first Boss of the Haligtree. Requires Haligtree Medallion.",
+    "spell_type": "Sorceries",
+    "cost": 50,
+    "slots": 1,
+    "effects": "Fires four great arrow from a magic greatbow at once",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 46
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69330670l0hykywaqrpmwdbzpyj",
+    "name": "Magic Downpour",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69330670l0hykywaqrpmwdbzpyj.png",
+    "description": "One of the sorceries of the Carian royal family.",
+    "location": "Kill Preceptor Miriam in Carian Study Hall without using the Carian Inverted Statue on the altar.",
+    "spell_type": "Sorceries",
+    "cost": 25,
+    "slots": 1,
+    "effects": "Summon a magic mass that sprays projectiles over area",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 15
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69818087l0hykz26ox2vtdp84yq",
+    "name": "Magic Glintblade",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69818087l0hykz26ox2vtdp84yq.png",
+    "description": "An old sorcery of the Carian Royal Family.",
+    "location": "Sold by Miriel, Pastor of Vows",
+    "spell_type": "Sorceries",
+    "cost": 12,
+    "slots": 1,
+    "effects": "Creates sigil that forms a projectile glintblade after delay",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 14
+      }
+    ]
+  },
+  {
+    "uid": "17f6985da4cl0hykzwl2ly1lk18kxg",
+    "name": "Magma Shot",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6985da4cl0hykzwl2ly1lk18kxg.png",
+    "description": "One of the sorceries developed from the magma of Mt. Gelmir.",
+    "location": "Reward from Volcano Manor's first request.",
+    "spell_type": "Sorceries",
+    "cost": 24,
+    "slots": 1,
+    "effects": "Fire lump of magma that explodes on contact",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 19
+      },
+      {
+        "name": "Faith",
+        "amount": 10
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6979d7f4l0hyl01q26suhho4xsd",
+    "name": "Meteorite",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6979d7f4l0hyl01q26suhho4xsd.png",
+    "description": "A glintstone sorcery that draws on gravitational force, used by a great white king with stone skin. Calls small meteorites down from the sky. The meteor shower continues for as long as the sorcery is in effect. It is said that, in the Eternal City, now lost in ruin underground, meteorites held the same import as stars.",
+    "location": "Kill Boss of the Royal Grave Evergaol in North Liurnia Lake",
+    "spell_type": "Sorcery",
+    "cost": 30,
+    "slots": 1,
+    "effects": "Calls small meteors down from the sky.",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 30
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69763b5dl0hyl03j39aq843i4li",
+    "name": "Night Comet",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69763b5dl0hyl03j39aq843i4li.png",
+    "description": "One of the night sorceries of Sellia, Town of Sorcery.",
+    "location": "One of the chests in Sellia that are available after unlocking the seals by lighting the towers.",
+    "spell_type": "Sorceries",
+    "cost": 32,
+    "slots": 1,
+    "effects": "Fires semi-invisible magic comet",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 38
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f68fe64del0hyl068olsfxrrts7",
+    "name": "Meteorite Of Astel",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f68fe64del0hyl068olsfxrrts7.png",
+    "description": "One of the glintstone sorceries that manipulates gravitational forces. Summons a void that emits a hail of meteorites. Hold to continue the effect. A manifestation of the power with which Astel leveled the Eternal City.",
+    "location": "Kill the Boss of Yelough Anix Tunnel in West Consecrated Snowfield. Requires Haligtree Medallion.",
+    "spell_type": "Sorceries",
+    "cost": 60,
+    "slots": 2,
+    "effects": "Calls a hail of small meteorites from the void.",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 55
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69717eddl0hyl0exs9l0a0sdw6s",
+    "name": "Night Shard",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69717eddl0hyl0exs9l0a0sdw6s.png",
+    "description": "One of the night sorceries of Sellia, Town of Sorcery. ",
+    "location": "Sold by Gowry",
+    "spell_type": "Sorceries",
+    "cost": 7,
+    "slots": 1,
+    "effects": "Swiftly fires a semi-invisible",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 18
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f690350b7l0hyl0i9t31pb2ahyzj",
+    "name": "Night Maiden's Mist",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f690350b7l0hyl0i9t31pb2ahyzj.png",
+    "description": "One of the night sorceries of Sellia, Town of Sorcery.",
+    "location": "Sold by Gowry in Gowry's Shack south of Sellia after finishing his request.",
+    "spell_type": "Sorceries",
+    "cost": 20,
+    "slots": 1,
+    "effects": "Releases life-sapping silver mist before caster",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 14
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69062ddbl0hyl0j0sh5cueid15m",
+    "name": "Rancorcall",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69062ddbl0hyl0j0sh5cueid15m.png",
+    "description": "Sorcery of the servants of Death.",
+    "location": "From the Liftside Chamber Grace, go outside and turn right. At the end of the path is a ledge. Hop down it, even if it's scary, then work your way down to the bottom. At the bottom, past some rats, is a scarab with the spell.",
+    "spell_type": "Sorceries",
+    "cost": 14,
+    "slots": 1,
+    "effects": "Summons vengeful spirits that chase down foes",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 16
+      },
+      {
+        "name": "Faith",
+        "amount": 14
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f698db556l0hyl0jjihm0vl3xdwh",
+    "name": "Oracle Bubbles",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f698db556l0hyl0jjihm0vl3xdwh.png",
+    "description": "Sorcery of the claymen who served as priests in the ancient",
+    "location": "Go into the underground area via the lift at Siofra River Well in Limgrave's forest. From the Grace there, go through the ruins nearby and then turn around at the end and hop on top of them. Work your way over to the other side to where the scarab is. Kill the beetle for the spell",
+    "spell_type": "Sorceries",
+    "cost": 12,
+    "slots": 1,
+    "effects": "Launches several small magic bubbles.",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 19
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "uid": "17f696ded8bl0hyl1chm38nbkimwj9",
+    "name": "Rennala's Full Moon",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f696ded8bl0hyl1chm38nbkimwj9.png",
+    "description": "Sorcery associated with the Carian queen. Uses the caster as a vessel to incarnate a full moon, then sends it floating toward foes. The full moon dispels all sorcery that touches it, and temporarily reduces magic damage negation for those it strikes. Queen Rennala encountered this enchanting moon when she was young, and later, it would bewitch the academy.",
+    "location": "Gotten from Rennala's Remembrance which is obtained by killing the boss of Raya Lucaria.",
+    "spell_type": "Sorceries",
+    "cost": 55,
+    "slots": 2,
+    "effects": "Incarnate a full moon and launch it at foes",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 70
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6933fcffl0hyl1h3yit07w1s9ta",
+    "name": "Ranni's Dark Moon",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6933fcffl0hyl1h3yit07w1s9ta.png",
+    "description": "Legendary sorcery associated with the Carian queen. ",
+    "location": "After finishing Ranni's Questline, go to the area where the questline ends at South Liurnia Lake. In the South-West corner of this area is Chelona's Rise. Solve the puzzle by killing the 3 giant turtles found on the side of the cliff nearby, below the cliffs in the East, and in the air above the Spiritjump to the North. At the top of the tower is the spell.",
+    "spell_type": "Sorceries",
+    "cost": 62,
+    "slots": 2,
+    "effects": "Incarnate a cold, dark moon and launch it at foes.",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 68
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6960508el0hyl1nhkrxurxy1oqd",
+    "name": "Rock Blaster",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6960508el0hyl1nhkrxurxy1oqd.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+    "location": "In a chest in the upper level of Sellia Crystal Tunnel located North of the swamp. Easily gotten to from the teleport chest under the ruins in the South part of the lake in Limgrave.",
+    "spell_type": "Sorceries",
+    "cost": 30,
+    "slots": 1,
+    "effects": "Thurst staff into ground to emit a massive shockwave",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 21
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f695b8eb1l0hyl1wwn8bq4hod2yh",
+    "name": "Roiling Magma",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f695b8eb1l0hyl1wwn8bq4hod2yh.png",
+    "description": "One of the sorceries developed from the magma of Mt. Gelmir. Fires a lump of condensed magma that explodes a short delay after hitting the target. Charging enhances potency and further delays the explosion. After discovering the ancient hexes of Gelmir, Rykard, son of Queen Rennala, brought them back into practical use as new forms of sorcery.",
+    "location": "In the Hermit's Shack South of Volcano Manor. Requires going around the North side of the zone to reach South of the Manor.",
+    "spell_type": "Sorceries",
+    "cost": 32,
+    "slots": 1,
+    "effects": "Fires lump of magma that explodes after delay",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 21
+      },
+      {
+        "name": "Faith",
+        "amount": 12
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6956b602l0hyl1xzxdrjbidynzq",
+    "name": "Rykard's Rancor",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6956b602l0hyl1xzxdrjbidynzq.png",
+    "description": "The terrible power of Rykard, Lord of Blasphemy. ",
+    "location": "Gotten from Rykard's Remembrance obtained after killing the Boss of Volcano Manor.",
+    "spell_type": "Sorceries",
+    "cost": 35,
+    "slots": 2,
+    "effects": "Releases searing spirits that repeatedly explode after delay",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 40
+      },
+      {
+        "name": "Faith",
+        "amount": 18
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f697513fdl0hyl1yp7y0bcj3si6i",
+    "name": "Rock Sling",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f697513fdl0hyl1yp7y0bcj3si6i.png",
+    "description": "One of the glintstone sorceries that manipulates gravitational forces. ",
+    "location": "Under the North section of Street of Sages Ruins in the West part of the swamp.",
+    "spell_type": "Sorceries",
+    "cost": 18,
+    "slots": 1,
+    "effects": "Summons rocks from the earth and sends its flying",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 18
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f694eec4fl0hyl27r5xh06ckw1so",
+    "name": "Scholar's Armament",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f694eec4fl0hyl27r5xh06ckw1so.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+    "location": "Sold by Sorceress Sellen",
+    "spell_type": "Sorceries",
+    "cost": 25,
+    "slots": 1,
+    "effects": "Enchants right-hand armament with magic damage",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 12
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69379d7el0hyl27xfguetq35bni",
+    "name": "Scholar's Shield",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69379d7el0hyl27xfguetq35bni.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+    "location": "Sold by Sorceress Sellen",
+    "spell_type": "Sorceries",
+    "cost": 30,
+    "slots": 1,
+    "effects": "Enhances left-handed shield damage negation",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 12
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69233f99l0hyl32ixqa8cf501y",
+    "name": "Shard Spiral",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69233f99l0hyl32ixqa8cf501y.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+    "location": "Purchased from Sellen after her quest if you sided with her.",
+    "spell_type": "Sorceries",
+    "cost": 16,
+    "slots": 1,
+    "effects": "Fire twin spiraling projectiles",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 27
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69240fcdl0hyl38ber0x0u7bv3d",
+    "name": "Shatter Earth",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69240fcdl0hyl38ber0x0u7bv3d.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Imbues the ferrule of the caster's staff with magic, then thrusts it into the ground to create a magical shockwave. Allows one follow-up attack. A Stonedigger sorcery used by the glintstone miners of the crystal tunnel. At the academy, use of this sorcery was a stigma that marked out failed scholars.",
+    "location": "In Raya Lucaria Crystal Tunnel near the end.",
+    "spell_type": "Sorceries",
+    "cost": 12,
+    "slots": 1,
+    "effects": "Thrust staff into ground to emit a shockwave",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 15
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6902b989l0hyl3f6iorcnaeypi",
+    "name": "Starlight",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6902b989l0hyl3f6iorcnaeypi.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+    "location": "Sold by Thops in the Church of Irith near the Lake-Facing Cliffs Grace",
+    "spell_type": "Sorceries",
+    "cost": 12,
+    "slots": 1,
+    "effects": "Creates star light to illuminate surroundings",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 15
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f693402e5l0hyl3gzhtqb01yjf3k",
+    "name": "Star Shower",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f693402e5l0hyl3gzhtqb01yjf3k.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Fires six magic shooting stars that pursue the target. This sorcery can be cast while in motion. Charging enhances potency. The most difficult to master of the Olivinus Conspectus sorceries.",
+    "location": "Unlocked by Conspectus Scroll",
+    "spell_type": "Sorceries",
+    "cost": 36,
+    "slots": 1,
+    "effects": "Fires six shooting stars that pursue foes",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 24
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f6974051al0hyl3kcvhpy2j6smf",
+    "name": "Stars Of Ruin",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f6974051al0hyl3kcvhpy2j6smf.png",
+    "description": "Legendary sorcery devised by Lusat, primeval sorcerers. ",
+    "location": "Requires you to have found the Comet Azur. After finding the Comet Azur, go to Sellen in the basement of Waypoint Ruins, East of where the game started. Talk to her about the Comet Azur and she will give you a key. After get the key, head to Sellian Hideaway in North Caelid past the seals in Sellia and North of the Church of the Plague Grace. It is hidden behind an Illusory wall behind a giant gravestone. Go through Sellia Hideaway and at the bottom you will find a seal guarded by a sorceror. Kill him and open the seal then talk to Master Lusat for the Sorcery.",
+    "spell_type": "Sorceries",
+    "cost": 50,
+    "slots": 1,
+    "effects": "Fire twelve dark shooting stars that pursue foes",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 43
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f696ec037l0hyl3ngvf00twpbcg",
+    "name": "Shattering Crystal",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f696ec037l0hyl3ngvf00twpbcg.png",
+    "description": "Sorcery of the mysterious Crystalians. Creates a mass of crystal, then shatters it in a forward burst. Charging enhances potency. The Crystalians are inorganic beings, yet they live. They cleave close to the ideals of the primeval current, and as such, they are revered guests of the sorcerers.",
+    "location": "From the Debate Parlor Grace in Raya Lucaria, go outside and turn right. Hop down then climb the ladder to get to the roof. Make your way to the Church of the Cuckoo on the North-West side and it will there.",
+    "spell_type": "Sorceries",
+    "cost": 32,
+    "slots": 1,
+    "effects": "Creates crystal mass that shatters in forward burst",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 38
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69183747l0hyl3o1tnkgev3q3qs",
+    "name": "Swift Glintstone Shard",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69183747l0hyl3o1tnkgev3q3qs.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. The glintstone serves as a conduit, launching swift magical projectiles at foes. This sorcery can be used without delay after performing another action. Those unworthy of the stone crown typically end their brief journey into sorcery here.",
+    "location": "Unlocked by Academy Scroll",
+    "spell_type": "Sorceries",
+    "cost": 5,
+    "slots": 1,
+    "effects": "Swiftly fires magic projectiles from glintstone",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 12
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f694f65f4l0hyl3qlnj0oepap3pg",
+    "name": "Terra Magicus",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f694f65f4l0hyl3qlnj0oepap3pg.png",
+    "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Draws an academy sigil upon the ground, raising the magic strength of those within. Once, the sigil would be cast from the highest belfry of the academy, covering the entire institution's grounds. This spell allows such vivid experience of spell\u2014casting success, it turns many a fledgling into a true sorcerer in a flash of newfound understanding.",
+    "location": null,
+    "spell_type": "Sorceries",
+    "cost": 20,
+    "slots": 1,
+    "effects": "Raises the magic strength of those within the sigil",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 20
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69321284l0hyl4lnndsfcv2un9k",
+    "name": "Unseen Blade",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69321284l0hyl4lnndsfcv2un9k.png",
+    "description": "One of the night sorceries of Sellia, Town of Sorcery. Enchants armament held in right hand, making it completely invisible. This sorcery can be cast while in motion. Used by Sellian assassins to present themselves as unarmed sorcerers.",
+    "location": "At the tower Mirage Rise located in North Altus Plateau, at the end of the path going West from the Minor Erdtree. To solve the puzzle, touch the three seals. One is South-West, One is East, and one is further East hidden by an Illusory Rock. The chest is at the top of the tower that appears.",
+    "spell_type": "Sorceries",
+    "cost": 18,
+    "slots": 1,
+    "effects": "Makes right-hand armament completely invisible",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 12
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f698ec32bl0hyl4ouriysbeaoqvp",
+    "name": "Unseen Form",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f698ec32bl0hyl4ouriysbeaoqvp.png",
+    "description": "One of the night sorceries of Sellia, Town of Sorcery. Makes the caster semi-invisible. While on horseback, effect extends to cover the mount. This sorcery can be cast while in motion. The Sellian assassins considered every option that aided their dirty work.",
+    "location": "In the same chest as Unseen Blade",
+    "spell_type": "Sorceries",
+    "cost": 20,
+    "slots": 1,
+    "effects": "Makes the caster semi-invisible",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 16
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f69332a7cl0hyl4q0ahq1rhl510s",
+    "name": "Thops's Barrier",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f69332a7cl0hyl4q0ahq1rhl510s.png",
+    "description": "The lifelong pursuit of Thops the Bluntstone.",
+    "location": "After giving Thops the second Glintstone Key, you can find it on his body outside the room of the Schoolhouse Classroom Grace in Raya Lucaria.",
+    "spell_type": "Sorceries",
+    "cost": 7,
+    "slots": 1,
+    "effects": "Erect a magic forcefield to deflect spells",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 18
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f693b4e3cl0hyl4rjaph3b2vbtk5",
+    "name": "Zamor Ice Storm",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f693b4e3cl0hyl4rjaph3b2vbtk5.png",
+    "description": "Ice sorcery of the Town of Zamor.",
+    "location": null,
+    "spell_type": "Sorceries",
+    "cost": 22,
+    "slots": 1,
+    "effects": "Thrust staff into ground to create freezing tornado.",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 36
+      },
+      {
+        "name": "Faith",
+        "amount": 0
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "uid": "17f692e03b8l0hyl4rlgts2b9n06wj",
+    "name": "Tibia's Summons",
+    "image": "https://eldenring.fanapis.com/images/sorceries/17f692e03b8l0hyl4rlgts2b9n06wj.png",
+    "description": "Sorcery of the servants of Death. Summons a group of Those Lost in Death. Three skeletons will appear some distance from the caster and attack foes before disappearing. The dead have long been left to wander; what they need is leadership.",
+    "location": "After killing the boss of the \"Coward's Path\" aka Ruin-Strewn Precipice, take the path going North and get to the Wyndham Ruins. Kill the Tibia Mariner for the spell.",
+    "spell_type": "Sorceries",
+    "cost": 20,
+    "slots": 1,
+    "effects": "Summons Those Who Live in Death",
+    "requirements": [
+      {
+        "name": "Intelligence",
+        "amount": 28
+      },
+      {
+        "name": "Faith",
+        "amount": 20
+      },
+      {
+        "name": "Arcane",
+        "amount": 0
+      }
+    ]
+  }
+]

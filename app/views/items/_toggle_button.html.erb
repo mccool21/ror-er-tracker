@@ -1,0 +1,6 @@
+<% if found_item %>
+  <%= button_to "Mark as not found", playthrough_found_item_path(playthrough, found_item), method: :delete, class: "btn btn-outline-secondary btn-sm" %>
+<% else %>
+  <%= button_to "Mark as found", playthrough_found_items_path(playthrough), method: :post,
+        params: { item_type: item_type, item_id: item.id }, class: "btn btn-success btn-sm" %>
+<% end %>

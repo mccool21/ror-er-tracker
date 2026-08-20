@@ -1,0 +1,9 @@
+melina:
+  uid: npc-melina
+  name: Melina
+  role: Maiden
+
+kale:
+  uid: npc-kale
+  name: Kalé
+  role: Merchant
